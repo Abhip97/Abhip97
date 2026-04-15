@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Abhishek%20Parle&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Reporting%20Consultant%20%E2%80%A2%20Building%20toward%20ML%20%2F%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Abhishek%20Parle&fontSize=50&fontColor=ffffff&animation=fadeIn)
 <a href="https://github.com/Abhip97">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abhishek+%F0%9F%91%8B;Data+%26+Reporting+%40+DP+World;Forecasting+%E2%80%A2+Computer+Vision+%E2%80%A2+BI+Automation;5%2B+years+turning+data+into+decisions" alt="Typing SVG" />
 </a>
@@ -24,7 +23,7 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 
 - 🔭 **Currently building:** Sales Performance Intelligence Dashboard (Prophet + XGBoost + Streamlit)
 - 🌱 **Currently learning:** LLM apps (RAG, agents) and MLOps fundamentals (MLflow, Docker)
-- 🎯 **Open to:** Data Analyst · MIS · Workforce Planning · ML Engineer roles in Pune / Gurgaon / Remote
+- 🎯 **Open to:** Data Analyst · MIS · Workforce Planning · ML Engineer roles in Mumbai / Pune / HYD / Bengaluru / Ahemdabad / Remote
 - 💬 **Ask me about:** Power BI architecture, ETL automation, time-series forecasting
 - ⚡ **Fun fact:** Mechanical Engineer who fell in love with data
 
@@ -152,16 +151,14 @@ Content-based recommendation system using cosine similarity over movie metadata.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhip97&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhip97&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Abhip97&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhip97&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhip97&theme=github-compact&hide_border=true&area=true)](https://github.com/Abhip97)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhip97&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhip97&theme=github-dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
