@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Abhishek%20Parle&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Reporting%20Consultant%20%E2%80%A2%20Building%20toward%20ML%20%2F%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
+
 <a href="https://github.com/Abhip97">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abhishek+Parle+%F0%9F%91%8B;Data+%26+Reporting+Consultant+%40+DP+World;Building+toward+ML+%2F+AI+Engineering;Forecasting+%E2%80%A2+Computer+Vision+%E2%80%A2+BI+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abhishek+%F0%9F%91%8B;Data+%26+Reporting+%40+DP+World;Forecasting+%E2%80%A2+Computer+Vision+%E2%80%A2+BI+Automation;5%2B+years+turning+data+into+decisions" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Abhip97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Abhip97?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <a href="https://www.linkedin.com/in/abhishek-parle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:abhiparle@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -23,8 +25,8 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 - 🔭 **Currently building:** Sales Performance Intelligence Dashboard (Prophet + XGBoost + Streamlit)
 - 🌱 **Currently learning:** LLM apps (RAG, agents) and MLOps fundamentals (MLflow, Docker)
 - 🎯 **Open to:** Data Analyst · MIS · Workforce Planning · ML Engineer roles in Pune / Gurgaon / Remote
-- 💬 **Ask me about:** Power BI architecture, ETL automation, time-series forecasting, BI workflow automation
-- ⚡ **Fun fact:** I'm a Mechanical Engineer who fell in love with data
+- 💬 **Ask me about:** Power BI architecture, ETL automation, time-series forecasting
+- ⚡ **Fun fact:** Mechanical Engineer who fell in love with data
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhip97&theme=github_dark)](https://github.com/Abhip97)
 
@@ -36,32 +38,65 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 
 | Impact | Where | What I Built |
 |---|---|---|
-| **+25%** FTE utilization tracking | DP World | End-to-end SQL ETL pipeline integrating Oracle invoices with ZingHR, feeding weekly Power BI utilization dashboards across GSC Finance, Ops & HR |
+| **+25%** FTE utilization tracking | DP World | End-to-end SQL ETL pipeline integrating Oracle invoices with ZingHR, feeding Power BI utilization dashboards across GSC Finance, Ops & HR |
 | **88%** forecast accuracy | DP World | Python (Pandas + scikit-learn) model predicting monthly invoice volumes for FTE capacity planning — improved team efficiency by **15%** |
 | **−40%** TAT on QA audits | DP World | Automated audit workflow with Power Automate + Power Apps + VBA, replacing manual email tracking with end-to-end escalation + Power BI error trend dashboard |
 | **+22%** asset utilization | DP World | Power BI dashboard for IT Asset Management (laptops, servers, peripherals) covering allocation, lifecycle, and procurement planning |
 | **+16%** regional savings | Inchcape | Vendor rate benchmarking across 5 European ports using Excel + Power Query |
-| **92%** fleet utilization | Albatross | Depot performance classifier (Logistic Regression, Random Forest) on Snowflake data, validating rule-based flags and reducing false positives |
+| **92%** fleet utilization | Albatross | Depot performance classifier (Logistic Regression, Random Forest) on Snowflake, validating rule-based flags and reducing false positives |
 
 ---
 
 ## 🚀 Featured Projects
 
-[![BCCD](https://github-readme-stats.vercel.app/api/pin/?username=Abhip97&theme=github_dark&hide_border=true&repo=bccd-detection)](https://github.com/Abhip97/bccd-detection)
-[![Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=Abhip97&theme=github_dark&hide_border=true&repo=delivery-forecasting)](https://github.com/Abhip97/delivery-forecasting)
-[![HR Attrition](https://github-readme-stats.vercel.app/api/pin/?username=Abhip97&theme=github_dark&hide_border=true&repo=hr-attrition)](https://github.com/Abhip97/hr-attrition)
-[![Movie Recommender](https://github-readme-stats.vercel.app/api/pin/?username=Abhip97&theme=github_dark&hide_border=true&repo=movie-recommender)](https://github.com/Abhip97/movie-recommender)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 [BCCD Detection](https://github.com/Abhip97/bccd-detection)
+**YOLOv10 · Streamlit · Hugging Face Spaces**
+
+Real-time blood-cell detection (RBCs, WBCs, Platelets) from microscope smear images. Trained YOLOv10 on the BCCD dataset and deployed as an interactive web app.
+
+`Computer Vision` `Deep Learning` `Deployed`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Delivery Forecasting](https://github.com/Abhip97/delivery-forecasting)
+**SARIMA · pandas · Power BI**
+
+Forecasted monthly delivery orders for an e-commerce client using 8 years of historical data. Visualized logistics KPIs in Power BI to support inventory and capacity planning.
+
+`Time Series` `Forecasting` `BI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 [HR Attrition Analysis](https://github.com/Abhip97/hr-attrition)
+**Power BI · Python · EDA**
+
+End-to-end HR analytics dashboard surfacing attrition drivers across departments, tenure, and compensation bands. Generated data-backed retention recommendations for HR leadership.
+
+`Power BI` `EDA` `HR Analytics`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [Movie Recommender](https://github.com/Abhip97/movie-recommender)
+**Python · Streamlit · TMDb API**
+
+Content-based recommendation system using cosine similarity over movie metadata. Deployed on Hugging Face Spaces with a clean Streamlit UI.
+
+`Recommender Systems` `NLP` `Deployed`
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 💻 Tools & Environment
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🛠️ Tech Stack
 
@@ -71,9 +106,8 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![M (Power Query)](https://img.shields.io/badge/Power%20Query%20M-376C9D?style=for-the-badge&logo=powerbi&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Data & ML Libraries
+### Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -99,10 +133,13 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 ![ZingHR](https://img.shields.io/badge/ZingHR-1F4E79?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Deployment
+### Deployment & Tools
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
@@ -120,25 +157,9 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 ![Stats](https://github-readme-stats.vercel.app/api?username=Abhip97&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhip97&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhip97&theme=github_dark&utcOffset=5.5)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhip97&theme=github-compact&hide_border=true&area=true)](https://github.com/Abhip97)
 
-</div>
-
-## 🔥 Streak
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhip97&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abhip97&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
@@ -151,10 +172,10 @@ Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workfl
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiparle@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-parle)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Abhip97)
-[![Phone](https://img.shields.io/badge/+91%208451863795-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918451863795)
+[![WhatsApp](https://img.shields.io/badge/+91%208451863795-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918451863795)
 
 <br/>
 
-<i>📍 Gurgaon, India · Open to Pune & remote opportunities</i>
+<i>📍 Mumbai, India </i>
 
 </div>
