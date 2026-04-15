@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Data & Reporting Consultant at DP World** with **5+ years of experience** building end-to-end BI solutions, automating reporting workflows, and turning operational data into measurable business outcomes. My work spans **logistics, finance, HR, and asset management** — across DP World, Inchcape Shipping, Albatross Tank-Leasing, and Seamarine.
+I'm a **Data & Reporting Consultant at DP World** with **5+ years of experience** building end-to-end BI solutions, automating reporting workflows, and turning operational data into measurable business outcomes. My work spans **logistics, finance, HR, and asset management** across DP World, Inchcape Shipping, Albatross Tank-Leasing, and Seamarine.
 
-Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workflows with Power Automate / Power Apps / VBA, and ship Python-based forecasting models that drive real FTE and capacity decisions. Outside of work, I'm building toward **ML and AI engineering** — forecasting, computer vision, and deployed ML apps.
+Day-to-day I architect ETL pipelines, build Power BI dashboards, automate workflows with Power Automate / Power Apps / VBA, and ship Python-based forecasting models that drive real FTE and capacity decisions. Outside of work, I'm building toward **ML and AI engineering** forecasting, computer vision, and deployed ML apps.
 
 - 🔭 **Currently building:** Sales Performance Intelligence Dashboard (Prophet + XGBoost + Streamlit)
 - 🌱 **Currently learning:** LLM apps (RAG, agents) and MLOps fundamentals (MLflow, Docker)
