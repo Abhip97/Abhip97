@@ -74,12 +74,12 @@ Forecasted monthly delivery orders for an e-commerce client using 8 years of his
 <tr>
 <td width="50%" valign="top">
 
-### 👥 [HR Attrition Analysis](https://github.com/Abhip97/hr-attrition)
+### 👥 [Snitch marketplace intelligence](https://github.com/Abhip97/snitch-marketplace-intelligence)
 **Power BI · Python · EDA**
 
-End-to-end HR analytics dashboard surfacing attrition drivers across departments, tenure, and compensation bands. Generated data-backed retention recommendations for HR leadership.
+A marketplace analytics system that surfaces the true profitability of a multi-channel D2C fashion business across own platforms, third-party marketplaces, and offline retail at the granularity needed to make day-to-day commercial decisions.
 
-`Power BI` `EDA` `HR Analytics`
+`Power BI` `EDA` `Snowflake` `Python` `DuckDB` `Groq API` `Streamlit` `GitHub`
 
 </td>
 <td width="50%" valign="top">
